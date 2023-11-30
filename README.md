@@ -1,5 +1,5 @@
-# ESCORT_CUA
-**Economic evaluation of an integrated care program in addition to conventional care for chronic kidney disease patients in rural communities of Thailand**
+# Economic evaluation of an integrated care program in addition to conventional care for chronic kidney disease patients in rural communities of Thailand
+
 Authors:
 Molly Paffett, MSc1,2, Jeerath Phannajit, MD3*, Kinanti Khansa Chavarina, MPH1, 
 Tanainan Chuanchaiyakul, MSc1, Teerayuth Jiamjariyapon, MD4, Teerawat Thanachayanont, MD4, Methee Chanpitakkul, MD4, Salyaveth Lekagul, MD4, Yot Teerawattananon, MD, PhD1,5, 
