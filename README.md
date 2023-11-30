@@ -6,9 +6,13 @@ Tanainan Chuanchaiyakul, MSc1, Teerayuth Jiamjariyapon, MD4, Teerawat Thanachaya
 Kriang Tungsanga MD 3,4
 
 1Health Intervention and Technology Assessment Program (HITAP), Ministry of Public Health, Nonthaburi, Thailand
+
 2University of York, United Kingdom
+
 3Department of Medicine, King Chulalongkorn Memorial Hospital and Faculty of Medicine, Chulalongkorn University, Bangkok, Thailand
+
 4Bhumirajanagarindra Kidney Institute, Bangkok, Thailand 
+
 5Saw Swee Hock School of Public Health, National University of Singapore, Singapore
 
 *Corresponding author: Jeerath Phannajit, MD
