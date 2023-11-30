@@ -4,6 +4,7 @@ Authors:
 Molly Paffett, MSc1,2, Jeerath Phannajit, MD3*, Kinanti Khansa Chavarina, MPH1, 
 Tanainan Chuanchaiyakul, MSc1, Teerayuth Jiamjariyapon, MD4, Teerawat Thanachayanont, MD4, Methee Chanpitakkul, MD4, Salyaveth Lekagul, MD4, Yot Teerawattananon, MD, PhD1,5, 
 Kriang Tungsanga MD 3,4
+
 1Health Intervention and Technology Assessment Program (HITAP), Ministry of Public Health, Nonthaburi, Thailand
 2University of York, United Kingdom
 3Department of Medicine, King Chulalongkorn Memorial Hospital and Faculty of Medicine, Chulalongkorn University, Bangkok, Thailand
